@@ -2,6 +2,5 @@
 
 Currently hacking on:
 
-- 🔭 I’m currently working on [webhookrelay](https://webhookrelay.com), [Meteron AI](https://meteron.ai) and [Lightning AI](https://lightning.ai).
+- 🔭 I’m currently working on [Lightning AI](https://lightning.ai) as a Chief Architect and on [webhookrelay](https://webhookrelay.com) as director/developer/marketing/sales.
 
-If you would like to do anything interesting in AI space - feel free to ping me! 
